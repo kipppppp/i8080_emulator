@@ -1,3 +1,6 @@
+//Intel 8080 disassembler
+//Based of the disassembler located at: http://www.emulator101.com/
+
 #include <stdio.h>
 #include <stdlib.h>
 
